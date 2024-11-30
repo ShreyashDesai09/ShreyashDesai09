@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ShreyashDesai09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello There
 
-<!---
-ShreyashDesai09/ShreyashDesai09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Myselfs Shreyash Amrut Desai A ENTC Engineer
+Currently I am a fresher looking for JOB Opporturnities
+I am completed my degree from KIT's College of Engineering Kolhapur with **7.07 CGPA** 
+You can see my Projects Here DIRECT AIR CAPTURE using CSS TECHNOLOGY which was my Final Year College Project
+
+I have done a 3 months Internship at Softron Kolhapur where I worked as an Full Stack Intern
+
+I had worked on a project of a Registration Page for Project Competition. There I got the opportunity to work on projects using HTML, CSS, JavaScript, PHP and SQL 
+
+Along with this I have knowledge of Cloud Computing (AWS) and DevOps.
+
+For DevOps I know Containerization (Docker and Kubernetes), CI/CD (Jenkins,GitLab), IaaC/Automation (Terraform), Scripting (Shell, Python), Version Control (Git), Monitoring (Grafana, Prometheus).
+ 
