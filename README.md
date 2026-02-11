@@ -1,15 +1,17 @@
-👋 Hello There
+Hello, I’m Shreyash Amrut Desai — an Electronics & Telecommunication Engineering graduate and aspiring Full Stack Developer.
 
-Myselfs Shreyash Amrut Desai A ENTC Engineer
-Currently I am a fresher looking for JOB Opporturnities
-I am completed my degree from KIT's College of Engineering Kolhapur with **7.07 CGPA** 
-You can see my Projects Here DIRECT AIR CAPTURE using CSS TECHNOLOGY which was my Final Year College Project
+I completed my B.Tech from KIT’s College of Engineering, Kolhapur with a 7.07 CGPA. My final year project focused on Direct Air Capture using Carbon Capture & Storage (CCS) technology, where I designed and implemented a CO₂ capture prototype with hardware and automation integration.
 
-I have done a 3 months Internship at Softron Kolhapur where I worked as an Full Stack Intern
+I completed a 3-month internship at Softron, Kolhapur as a Full Stack Intern. During this period, I developed a Registration Portal for a Project Competition using HTML, CSS, JavaScript, PHP, and MySQL, handling frontend-backend integration and database operations.
 
-I had worked on a project of a Registration Page for Project Competition. There I got the opportunity to work on projects using HTML, CSS, JavaScript, PHP and SQL 
+Technical Skills:
+• Backend: Java (Spring Boot), .NET, PHP
+• Frontend: React.js, HTML5, CSS3, JavaScript
+• Databases: MySQL, MS SQL Server
+• Cloud: AWS
+• DevOps: Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform
+• Scripting: Shell, Python
+• Version Control: Git
+• Monitoring: Grafana, Prometheus
 
-Along with this I have knowledge of Cloud Computing (AWS) and DevOps.
-
-For DevOps I know Containerization (Docker and Kubernetes), CI/CD (Jenkins,GitLab), IaaC/Automation (Terraform), Scripting (Shell, Python), Version Control (Git), Monitoring (Grafana, Prometheus).
- 
+I am passionate about building scalable, secure, and cloud-ready applications and continuously improving my skills in backend systems and DevOps practices.
