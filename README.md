@@ -4,11 +4,11 @@
 ---
 
 ## 🚀 About Me
-I am an aspiring **Full Stack Developer** and a graduate in **Electronics & Telecommunication Engineering**. I focus on building scalable, secure, and cloud-ready applications with a deep interest in backend architecture and DevOps automation.
+I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunication Engineering** graduate. I specialize in building scalable, secure, and cloud-ready applications, with a strong emphasis on backend systems and DevOps automation.
 
 - 🎓 **B.Tech:** KIT’s College of Engineering, Kolhapur (7.07 CGPA)
 - 💼 **Experience:** Former Full Stack Intern at Softron
-- 🎯 **Focus:** Scalable Systems, Cloud Infrastructure, and Backend Performance
+- 🎯 **Focus:** Cloud-Native Applications, Microservices, and CI/CD Automation
 
 ---
 
@@ -19,46 +19,54 @@ I am an aspiring **Full Stack Developer** and a graduate in **Electronics & Tele
 | **Backend** | Java (Spring Boot), .NET, PHP |
 | **Frontend** | React.js, HTML5, CSS3, JavaScript |
 | **DevOps** | Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform |
-| **Cloud** | AWS (Amazon Web Services) |
+| **Cloud** | AWS (EC2, S3, IAM) |
 | **Databases** | MySQL, Microsoft SQL Server |
 | **Scripting** | Shell Scripting, Python |
 | **Monitoring** | Grafana, Prometheus |
-| **Version Control** | Git |
+| **Version Control** | Git / GitHub |
 
 ---
 
-## 💼 Experience
+## 📂 Featured Projects
 
-### **Full Stack Intern** | Softron, Kolhapur
-*3-Month Internship*
-- Developed a **Registration Portal** for a Project Competition.
-- Built responsive UI using **HTML, CSS, and JavaScript**.
-- Implemented backend logic and database management using **PHP and MySQL**.
-- Handled end-to-end integration of frontend and backend services.
+### [Direct Air Capture (CCS) Prototype](https://github.com/Shreyash-Desai/carbon-capture-prototype)
+*Final Year Engineering Project*
+- Designed and implemented a prototype to capture atmospheric CO₂ using Carbon Capture & Storage technology.
+- **Tech Stack:** Arduino, Hardware Sensors, Automation Logic.
+- **Key Achievement:** Successfully integrated hardware-software automation to monitor CO₂ levels in real-time.
+
+### [Project Competition Registration Portal](https://github.com/Shreyash-Desai/registration-portal)
+*Internship Project @ Softron*
+- Developed a full-stack portal to handle student registrations and project submissions.
+- **Tech Stack:** PHP, MySQL, JavaScript, HTML5, CSS3.
+- **Key Achievement:** Optimized database queries for faster user data retrieval and seamless form submission.
+
+### [DevOps Pipeline Implementation](https://github.com/Shreyash-Desai/devops-automation)
+- Automated deployment of a web application using Docker and Jenkins.
+- **Tech Stack:** Jenkins, Docker, Shell Scripting.
+- **Key Achievement:** Reduced deployment time by implementing a fully automated CI/CD pipeline.
 
 ---
 
-## 🏗 Key Projects
+## 💼 Work Experience
 
-### **Direct Air Capture using Carbon Capture & Storage (CCS)**
-*Final Year B.Tech Project*
-- Designed and implemented a functional prototype to capture atmospheric CO₂.
-- Integrated hardware sensors with automation software to track capture efficiency.
-- Focused on the intersection of hardware automation and environmental sustainability.
+**Full Stack Intern** | Softron, Kolhapur  
+*Three-month duration*
+- Streamlined the registration process for large-scale events.
+- Collaborated on database design and frontend-backend integration.
 
 ---
 
-## 📈 Stats & Proficiency
-- **Scalability:** Designing cloud-native applications using AWS and Docker.
-- **Automation:** Streamlining workflows with CI/CD pipelines and Terraform.
-- **Performance:** Implementing monitoring solutions like Grafana and Prometheus.
+## 📊 GitHub Stats
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyash-Desai&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-Desai&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shreyashdesai) <!-- Replace with your actual link -->
-- [GitHub](https://github.com/shreyashdesai) <!-- Replace with your actual link -->
-- [Portfolio](https://shreyashdesai.com) <!-- Replace with your actual link -->
+- **LinkedIn:** [linkedin.com/in/shreyashdesai](https://www.linkedin.com/in/shreyash-amrut-desai/)
+- **Email:** [shreyash.desai@example.com](mailto:shreyash.desai@example.com)
+- **Portfolio:** [shreyashdesai.dev](https://shreyashdesai.dev)
 
 ---
-*“Continuously learning and evolving to build the future of tech.”*
+*“Building the future with code and automation.”*
