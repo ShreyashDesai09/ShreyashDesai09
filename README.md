@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 About Me
-I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunication Engineering** graduate. I specialize in building scalable, secure, and cloud-ready applications, with a strong emphasis on backend systems and DevOps automation.
+I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunication Engineering** graduate from KIT’s College of Engineering. I focus on building scalable, secure, and cloud-ready applications, specializing in backend architecture and DevOps automation.
 
-- 🎓 **B.Tech:** KIT’s College of Engineering, Kolhapur (7.07 CGPA)
-- 💼 **Experience:** Former Full Stack Intern at Softron
+- 🎓 **Education:** B.Tech in ETC (7.07 CGPA) | PG-DAC Sunbeam Infotech
+- 💼 **Experience:** Former Intern at AppZen & Softron
 - 🎯 **Focus:** Cloud-Native Applications, Microservices, and CI/CD Automation
 
 ---
@@ -16,12 +16,11 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Java (Spring Boot), .NET, PHP |
-| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Backend** | Java (Spring Boot), Node.js, PHP, .NET |
+| **Frontend** | React.js, JavaScript, HTML5, CSS3 |
 | **DevOps** | Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform |
-| **Cloud** | AWS (EC2, S3, IAM) |
+| **Cloud** | AWS (EC2, S3, IAM, AWS Educate Certified) |
 | **Databases** | MySQL, Microsoft SQL Server |
-| **Scripting** | Shell Scripting, Python |
 | **Monitoring** | Grafana, Prometheus |
 | **Version Control** | Git / GitHub |
 
@@ -29,44 +28,45 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 
 ## 📂 Featured Projects
 
-### [Direct Air Capture (CCS) Prototype](https://github.com/Shreyash-Desai/carbon-capture-prototype)
-*Final Year Engineering Project*
-- Designed and implemented a prototype to capture atmospheric CO₂ using Carbon Capture & Storage technology.
+### [Revenue and Subscription Management (BizVenue)](https://github.com/ShreyashDesai09)
+- Developed a SaaS platform for managing billing lifecycles.
+- **Tech Stack:** Spring Boot, React, Docker, MySQL.
+
+### [Direct Air Capture (CCS) Prototype](https://github.com/ShreyashDesai09)
+- Designed an Arduino-based prototype for atmospheric CO₂ capture.
 - **Tech Stack:** Arduino, Hardware Sensors, Automation Logic.
-- **Key Achievement:** Successfully integrated hardware-software automation to monitor CO₂ levels in real-time.
 
-### [Project Competition Registration Portal](https://github.com/Shreyash-Desai/registration-portal)
-*Internship Project @ Softron*
-- Developed a full-stack portal to handle student registrations and project submissions.
-- **Tech Stack:** PHP, MySQL, JavaScript, HTML5, CSS3.
-- **Key Achievement:** Optimized database queries for faster user data retrieval and seamless form submission.
-
-### [DevOps Pipeline Implementation](https://github.com/Shreyash-Desai/devops-automation)
-- Automated deployment of a web application using Docker and Jenkins.
-- **Tech Stack:** Jenkins, Docker, Shell Scripting.
-- **Key Achievement:** Reduced deployment time by implementing a fully automated CI/CD pipeline.
+### [Project Competition Registration Portal](https://github.com/ShreyashDesai09)
+- Developed a full-stack portal during internship at Softron.
+- **Tech Stack:** PHP, MySQL, JavaScript, HTML5.
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
+
+**Customer Value Management Intern** | AppZen  
+- Automated invoice validation workflows using Python.
+- Achieved a 30% reduction in manual effort through automation.
 
 **Full Stack Intern** | Softron, Kolhapur  
-*Three-month duration*
-- Streamlined the registration process for large-scale events.
-- Collaborated on database design and frontend-backend integration.
+- Developed registration portals and handled frontend-backend integration.
+
+---
+
+## 📝 Technical Writing
+- **Hashnode:** [90 Days of DevOps Blog Series](https://shreyashdesai.hashnode.dev)
 
 ---
 
 ## 📊 GitHub Stats
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyash-Desai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-Desai&layout=compact&theme=radical)
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyashDesai09&show_icons=true&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/shreyashdesai](https://www.linkedin.com/in/shreyash-amrut-desai/)
-- **Email:** [shreyash.desai@example.com](mailto:shreyash.desai@example.com)
-- **Portfolio:** [shreyashdesai.dev](https://shreyashdesai.dev)
+- **Portfolio:** [shreyashdesai09.github.io](https://shreyashdesai09.github.io)
+- **LinkedIn:** [linkedin.com/in/shreyash-amrut-desai](https://www.linkedin.com/in/shreyash-amrut-desai/)
+- **GitHub:** [github.com/ShreyashDesai09](https://github.com/ShreyashDesai09)
 
 ---
 *“Building the future with code and automation.”*
