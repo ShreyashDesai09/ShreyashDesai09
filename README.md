@@ -28,17 +28,13 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 
 ## 📂 Featured Projects
 
-### [Revenue and Subscription Management (BizVenue)](https://github.com/ShreyashDesai09)
+### [Revenue and Subscription Management (BizVenue)](https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-)
 - Developed a SaaS platform for managing billing lifecycles.
-- **Tech Stack:** Spring Boot, React, Docker, MySQL.
+- **Tech Stack:** Spring Boot, Node , ASP . NET , React, Docker, MySQL , Microsoft SQL Management Studio.
 
-### [Direct Air Capture (CCS) Prototype](https://github.com/ShreyashDesai09)
+### [Direct Air Capture (CCS) Prototype](https://github.com/ShreyashDesai09/direct_air_capture)
 - Designed an Arduino-based prototype for atmospheric CO₂ capture.
 - **Tech Stack:** Arduino, Hardware Sensors, Automation Logic.
-
-### [Project Competition Registration Portal](https://github.com/ShreyashDesai09)
-- Developed a full-stack portal during internship at Softron.
-- **Tech Stack:** PHP, MySQL, JavaScript, HTML5.
 
 ---
 
@@ -47,25 +43,20 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 **Customer Value Management Intern** | AppZen  
 - Automated invoice validation workflows using Python.
 - Achieved a 30% reduction in manual effort through automation.
-
-**Full Stack Intern** | Softron, Kolhapur  
-- Developed registration portals and handled frontend-backend integration.
-
----
-
-## 📝 Technical Writing
-- **Hashnode:** [90 Days of DevOps Blog Series](https://shreyashdesai.hashnode.dev)
+- [View Experience Certificate](https://drive.google.com/file/d/1EXJRgkK4qxZ4oTQdyApiqSamU9xJBfm3/view?usp=drive_link)
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyashDesai09&show_icons=true&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
+
 - **Portfolio:** [shreyashdesai09.github.io](https://shreyashdesai09.github.io)
-- **LinkedIn:** [linkedin.com/in/shreyash-amrut-desai](https://www.linkedin.com/in/shreyash-amrut-desai/)
+- **LinkedIn:** [linkedin.com/in/shreyash-amrut-desai]([https://www.linkedin.com/in/shreyash-amrut-desai/](https://www.linkedin.com/in/shreyash-desai-886979237/))
 - **GitHub:** [github.com/ShreyashDesai09](https://github.com/ShreyashDesai09)
 
 ---
