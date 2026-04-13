@@ -30,7 +30,7 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 
 ### [Revenue and Subscription Management (BizVenue)](https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-)
 - Developed a SaaS platform for managing billing lifecycles.
-- **Tech Stack:** Spring Boot, Node , ASP . NET , React, Docker, MySQL , Microsoft SQL Management Studio.
+- **Tech Stack:** React.js,  Spring Boot, Node.js, ASP . NET, Docker, MySQL , Microsoft SQL Management Studio, Amazon Web Services .
 
 ### [Direct Air Capture (CCS) Prototype](https://github.com/ShreyashDesai09/direct_air_capture)
 - Designed an Arduino-based prototype for atmospheric CO₂ capture.
@@ -55,7 +55,9 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 
 ## 📬 Connect with Me
 
-[Portfolio](https://shreyashdesai09.github.io) [LinkedIn](https://www.linkedin.com/in/shreyash-desai-886979237/) [GutHub](https://github.com/ShreyashDesai09)
+- [Portfolio](https://shreyashdesai09.github.io)
+- [LinkedIn](https://www.linkedin.com/in/shreyash-desai-886979237/)
+- [GitHub](https://github.com/ShreyashDesai09)
 
 ---
 *“Building the future with code and automation.”*
