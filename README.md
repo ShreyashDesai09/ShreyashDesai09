@@ -55,9 +55,7 @@ I am an aspiring **Full Stack Developer** and an **Electronics & Telecommunicati
 
 ## 📬 Connect with Me
 
-- **Portfolio:** [shreyashdesai09.github.io](https://shreyashdesai09.github.io)
-- **LinkedIn:** [linkedin.com/in/shreyash-amrut-desai]([https://www.linkedin.com/in/shreyash-amrut-desai/](https://www.linkedin.com/in/shreyash-desai-886979237/))
-- **GitHub:** [github.com/ShreyashDesai09](https://github.com/ShreyashDesai09)
+[Portfolio](https://shreyashdesai09.github.io) [LinkedIn](https://www.linkedin.com/in/shreyash-desai-886979237/) [GutHub](https://github.com/ShreyashDesai09)
 
 ---
 *“Building the future with code and automation.”*
