@@ -60,7 +60,7 @@ I am a **Full Stack Developer** and an **Electronics & Telecommunication Enginee
 
 ## 📂 Featured Projects
 
-### [Revenue & Subscription Management](https://github.com/ShreyashDesai09/Revenue-And-Subscription-Management-)
+### [Revenue & Subscription Management](https://github.com/ShreyashDesai09/bizvenue-subscription-management)
 - Production-deployed **microservices SaaS billing platform** with **35+ REST APIs**
 - Spring Boot as core backend · Node.js for JWT cookie-based auth · ASP.NET Core as logger microservice
 - Containerized with Docker Compose · Deployed on **AWS EC2** · Supports **100+ concurrent users**
@@ -72,7 +72,7 @@ I am a **Full Stack Developer** and an **Electronics & Telecommunication Enginee
 - Persistent Dark/Light theme via **React Context API**
 - **Tech Stack:** ASP.NET Core 7 · React.js · Entity Framework Core · SQLite · DTO Pattern
 
-### [Vitto – Loan Decision Engine](https://github.com/ShreyashDesai09/Vito-Project)
+### [Vitto – Loan Decision Engine](https://github.com/ShreyashDesai09/vitto-loan-decision-engine)
 - Full-stack loan approval system with automated **credit-scoring REST API**
 - Evaluates monthly revenue against a 30%-of-annual-income threshold
 - Automated Approve/Reject verdicts with credit score (750/350) and reason feedback
