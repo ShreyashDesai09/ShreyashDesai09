@@ -9,9 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://shreyashdesai09.github.io">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/shreyashdesai09/">LinkedIn</a> •
-  <a href="mailto:desaishreyash09@gmail.com">Email</a>
+  <a href="https://shreyashdesai09.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyashdesai09/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:desaishreyash09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -22,7 +28,7 @@
 - 🎓 PG-DAC graduate from Sunbeam Institute of Information Technology, Pune (2026).
 - 💻 Experienced in building applications using Java, Spring Boot, REST APIs, and SQL databases.
 - ☁️ Interested in backend development, cloud deployment, and DevOps practices.
-- 🚀 Hands-on experience with Docker, AWS EC2, and application deployment.
+- 🚀 Hands-on experience with Docker, AWS EC2, Render, and application deployment.
 - 📍 Based in Pune, India | Open to relocation.
 
 ---
@@ -30,12 +36,15 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Java_8%2F17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java_8%2F17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
 </p>
 
 ### 🎨 Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,6 +52,7 @@
 </p>
 
 ### ⚙️ Backend Development & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
@@ -53,9 +63,12 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -64,6 +77,7 @@
 </p>
 
 ### ☁️ Cloud, DevOps & Deployment
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -75,6 +89,7 @@
 </p>
 
 ### 🔧 Tools & Testing
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -85,95 +100,46 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
-**Additional Knowledge:** OOP, Data Structures & Algorithms, Java Collections, Multithreading, Exception Handling, Unit Testing, Integration Testing, Agile, Scrum, SDLC.
+**Core Computer Science:** OOP, Data Structures & Algorithms, Java Collections, Multithreading, Exception Handling, Unit Testing, Integration Testing.
+
+**Methodologies:** Agile, Scrum, Software Development Life Cycle (SDLC).
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 1. 🏢 BizVenue — Revenue & Subscription Management System
+## ☕ 1. Java & Spring Boot Projects
 
-**Development Period:** August 2025 – February 2026
+### 🏥 HealthSync — AI-Assisted Hospital Management System
 
-A SaaS platform for subscription management, payment processing, revenue tracking, and analytics, developed as a four-member PG-DAC capstone project.
+**📅 Development Period:** September 2026 – Present  
+**🚧 Status:** In Progress
 
-- ⚙️ Developed 35+ REST APIs for authentication, subscription operations, and analytics.
-- 💳 Integrated the Razorpay payment gateway for subscription payment processing.
-- 🔍 Implemented centralized logging using Node.js, Express.js, and ASP.NET Core.
-- ☁️ Containerized services using Docker and deployed on AWS EC2.
+A hospital management application designed to organize patient records, appointments, treatments, medications, and doctor/nurse activities.
 
-**Tech Stack:** Java 17, Spring Boot, Node.js, Express.js, ASP.NET Core, React.js, JWT, MySQL, MS SQL Server, Docker, AWS.
+- 🏥 Organizes hospital workflows through role-specific dashboards.
+- 🔐 Uses Spring Security and JWT for authentication and role-based authorization.
+- 🤖 Incorporates AI-assisted symptom and medical-history intake.
+- ⚙️ Designed with asynchronous processing and deployment technologies.
+
+**Tech Stack:** Java 21, Spring Boot, Spring Security, JWT, React.js, PostgreSQL, JPA/Hibernate, Redis, Kafka, Spring AI, Docker, Kubernetes, Jenkins, AWS.
 
 <p>
-  <a href="https://github.com/ShreyashDesai09/bizvenue-subscription-management">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://drive.google.com/file/d/1J4hll-LINaeLq53FejRtD1POuPkG8Hqy/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Video-Watch_Explanation-red?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://github.com/ShreyashDesai09/HealthSync">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 2. 📋 TaskBoard — Task Management Application
+### 🚚 LaneOpt — Transporter Assignment on Lanes
 
-A task management application built with an ASP.NET Core backend and React frontend.
-
-- ⚙️ Developed backend functionality using ASP.NET Core and Entity Framework Core.
-- 🗄️ Integrated SQLite for data persistence.
-- 🔗 Connected frontend workflows with backend APIs.
-
-**Tech Stack:** ASP.NET Core 7, Entity Framework Core, React.js, SQLite.
-
-<p>
-  <a href="https://github.com/ShreyashDesai09/VARStreet-Assessment">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 3. 💰 Vitto — Loan Decision Engine
-
-A web application focused on loan-related workflows and decision-making.
-
-- ⚙️ Developed backend functionality using Node.js and Express.js.
-- 🗄️ Used MySQL for data storage.
-- 🔗 Integrated frontend functionality with backend services.
-
-**Tech Stack:** React.js, Node.js, Express.js, MySQL.
-
-<p>
-  <a href="https://github.com/ShreyashDesai09/vitto-loan-decision-engine">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 4. 🛍️ Scent Aura — MERN E-Commerce Application
-
-An e-commerce application built using the MERN stack.
-
-- 🛒 Developed core e-commerce application workflows.
-- ⚙️ Built backend functionality using Node.js and Express.js.
-- 🗄️ Used MongoDB for data persistence.
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js.
-
-<p>
-  <a href="https://github.com/ShreyashDesai09/scent-aura-mern">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 5. 🚚 LaneOpt — Transporter Assignment on Lanes
+**📅 Development Period:** October 2026  
+**✅ Status:** Completed
 
 A backend application that assigns transporters to transportation lanes based on cost and transporter usage constraints.
 
-- 🚛 Models lanes, transporters, and transportation quotes.
+- 🚛 Models transportation lanes, transporters, and their quoted costs.
 - ⚙️ Provides REST APIs for transporter assignment and lane information.
 - 🐳 Uses Docker for containerization.
 - ☁️ Deployed on Render with PostgreSQL.
@@ -195,22 +161,93 @@ A backend application that assigns transporters to transportation lanes based on
 
 ---
 
-### 6. 🏥 HealthSync — AI-Assisted Hospital Management System
+## 🏗️ 2. Microservices & Enterprise Applications
 
-**Development Period:** September 2026 – Present
+### 🏢 BizVenue — Revenue & Subscription Management System
 
-A hospital management application designed to organize patient records, appointments, treatments, medications, and doctor/nurse activities.
+**📅 Development Period:** August 2025 – February 2026  
+**✅ Status:** Completed
 
-- 🏥 Organizes hospital workflows through role-specific dashboards.
-- 🔐 Uses Spring Security and JWT for authentication and role-based authorization.
-- 🤖 Incorporates AI-assisted symptom and medical-history intake.
-- ⚙️ Designed with Redis, Kafka, Docker, Kubernetes, Jenkins CI/CD, and AWS in mind.
+A SaaS platform for subscription management, payment processing, revenue tracking, and analytics, developed as a four-member PG-DAC capstone project.
 
-**Tech Stack:** Java 21, Spring Boot, Spring Security, JWT, React.js, PostgreSQL, JPA/Hibernate, Redis, Kafka, Spring AI, Docker, Kubernetes, Jenkins, AWS.
+- ⚙️ Developed 35+ REST APIs for authentication, subscription operations, and analytics.
+- 💳 Integrated the Razorpay payment gateway for subscription payment processing.
+- 🔍 Implemented centralized logging using Node.js, Express.js, and ASP.NET Core.
+- ☁️ Containerized services using Docker and deployed on AWS EC2.
+
+**Tech Stack:** Java 17, Spring Boot, Node.js, Express.js, ASP.NET Core, React.js, JWT, MySQL, MS SQL Server, Docker, AWS.
 
 <p>
-  <a href="https://github.com/ShreyashDesai09/HealthSync">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ShreyashDesai09/bizvenue-subscription-management">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://drive.google.com/file/d/1J4hll-LINaeLq53FejRtD1POuPkG8Hqy/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Video-Watch_Explanation-red?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚛️ 3. MERN & Full Stack Projects
+
+### 💰 Vitto — Loan Decision Engine
+
+**📅 Development Period:** April 2026  
+**✅ Status:** Completed
+
+A web application focused on loan-related workflows and decision-making.
+
+- ⚙️ Developed backend functionality using Node.js and Express.js.
+- 🗄️ Used MySQL for data storage.
+- 🔗 Integrated frontend functionality with backend services.
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL.
+
+<p>
+  <a href="https://github.com/ShreyashDesai09/vitto-loan-decision-engine">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🛍️ Scent Aura — MERN E-Commerce Application
+
+**📅 Development Period:** May 2026  
+**✅ Status:** Completed
+
+An e-commerce application built using the MERN stack.
+
+- 🛒 Developed core e-commerce application workflows.
+- ⚙️ Built backend functionality using Node.js and Express.js.
+- 🗄️ Used MongoDB for data persistence.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js.
+
+<p>
+  <a href="https://github.com/ShreyashDesai09/scent-aura-mern">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 📋 TaskBoard — Task Management Application
+
+**📅 Development Period:** June 2026  
+**✅ Status:** Completed
+
+A task management application built with an ASP.NET Core backend and React frontend.
+
+- ⚙️ Developed backend functionality using ASP.NET Core and Entity Framework Core.
+- 🗄️ Integrated SQLite for data persistence.
+- 🔗 Connected frontend workflows with backend APIs.
+
+**Tech Stack:** ASP.NET Core 7, Entity Framework Core, React.js, SQLite.
+
+<p>
+  <a href="https://github.com/ShreyashDesai09/VARStreet-Assessment">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -236,12 +273,12 @@ A hospital management application designed to organize patient records, appointm
 
 ## 🎓 Education
 
-**Post Graduate Diploma in Advanced Computing (PG-DAC)**  
-Sunbeam Institute of Information Technology, Pune  
+### Post Graduate Diploma in Advanced Computing (PG-DAC)
+**Sunbeam Institute of Information Technology, Pune**  
 August 2025 – February 2026
 
-**B.Tech — Electronics and Telecommunication Engineering**  
-KIT's College of Engineering (Autonomous), Kolhapur  
+### B.Tech — Electronics and Telecommunication Engineering
+**KIT's College of Engineering (Autonomous), Kolhapur**  
 June 2020 – May 2024
 
 ---
