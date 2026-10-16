@@ -97,9 +97,31 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
 </p>
 
-**Core Computer Science:** OOP, Data Structures & Algorithms, Java Collections, Multithreading, Exception Handling, Unit Testing, Integration Testing.
+### 🧠 Core Computer Science
 
-**Methodologies:** Agile, Scrum, Software Development Life Cycle (SDLC).
+<p>
+  <img src="https://img.shields.io/badge/OOP-Concepts-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Problem_Solving-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multithreading-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exception_Handling-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🧪 Testing
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit_Testing-Testing-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integration_Testing-Testing-4682B4?style=for-the-badge" />
+</p>
+
+### 🔄 Methodologies
+
+<p>
+  <img src="https://img.shields.io/badge/Agile-Methodology-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-Framework-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SDLC-Software_Development-483D8B?style=for-the-badge" />
+</p>
 
 ---
 
