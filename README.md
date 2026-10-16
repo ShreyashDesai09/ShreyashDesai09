@@ -3,12 +3,6 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | Backend Development | Cloud & DevOps</h3>
 
 <p align="center">
-  <a href="https://github.com/ShreyashDesai09">
-    <img src="https://komarev.com/ghpvc/?username=ShreyashDesai09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://shreyashdesai09.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
